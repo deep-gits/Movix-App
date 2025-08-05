@@ -18,8 +18,8 @@ Movix is a sleek, responsive movie and TV show browsing web app built using **Re
 > _Add screenshots here by uploading to GitHub and embedding like below:_
 
 ```md
-![Home Page](./screenshots/home.png)
-![Search Result](./screenshots/search.png)
+![Home Page](./screenshots/home.PNG)
+![Search Result](./screenshots/search.PNG)
 ```
 
 ## 🛠️ Tech Stack
@@ -65,12 +65,11 @@ touch .env
 npm run dev
 ```
 
-## 🌐 Deployment
+## 🔗 Live Demo
 
-You can deploy it using:
-- [Vercel](https://vercel.com/)
-- [Netlify](https://www.netlify.com/)
-- GitHub Pages (via build output)
+> Check out the live version of the Movix App:
+
+[**🌐 Click here to view the Live Demo**](https://codemovix-app.netlify.app/)
 
 ## 📄 License
 
