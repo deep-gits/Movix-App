@@ -15,12 +15,11 @@ Movix is a sleek, responsive movie and TV show browsing web app built using **Re
 
 ## 📸 Screenshots
 
-> _Add screenshots here by uploading to GitHub and embedding like below:_
 
-```md
+
 ![Home Page](./screenshots/home.PNG)
 ![Search Result](./screenshots/search.PNG)
-```
+
 
 ## 🛠️ Tech Stack
 
