@@ -68,7 +68,7 @@ npm run dev
 
 > Check out the live version of the Movix App:
 
-[**🌐 Click here to view the Live Demo**](https://codemovix-app.netlify.app/)
+[**🌐 Click here to view the Live Demo**](https://movix-online.netlify.app/)
 
 ## 📄 License
 
